@@ -4,7 +4,7 @@ Tags: wide-blocks, flexible-header, left-sidebar, right-sidebar, one-column, two
 Requires at least: 5.0
 Tested up to: 6.1
 Requires PHP: 7.2
-Stable tag: 0.1.9
+Stable tag: 0.2.0
 License: GNU General Public License v3.0 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -51,6 +51,8 @@ Using this dashboard saves you time, money and dependency on third party for mak
 = 0.1.9 =
   * Fixed minnor errors.
 
+= 0.2.0 =
+  * Made some changes.
 
 == Resources ==
 

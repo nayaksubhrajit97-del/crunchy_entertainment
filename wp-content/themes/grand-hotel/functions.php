@@ -459,7 +459,7 @@ function grand_hotel_global_promo_notice() {
             <img src="<?php echo esc_url($screenshot); ?>" alt="Grand Hotel Theme" style="max-width:180px; height:auto; border:1px solid #ccc; border-radius:6px;">
             <div style="flex:1;">
                 <strong style="font-size:16px;">Try The Grand Hotel Theme Pro!</strong><br>
-                Unlock premium features, layouts, and priority support.
+                Unlock Premium Features, Layouts, Banner Slider, Fully Responsive, Woocommerce Support, Multilanguage, Theme Options and Priority Support.
                 <div style="margin-top:10px;">
                     <a href="https://www.logicaldemo.com/grand-hotel/" target="_blank" class="button button-primary" style="background:#000; color:#fff;">View Demo</a>
                     <a href="https://www.logicalthemes.com/products/premium-grand-hotel-wordpress-theme/" target="_blank" class="button" style="background:#0073aa; color:#fff;padding: 0px 27px; font-weight: 700;border:1px solid #ff0000ff;">Get Premium</a>
